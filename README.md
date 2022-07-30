@@ -1,5 +1,5 @@
 # Token-Presser 
--Nukeador de tokens de discord 
+-Nukeador de tokens (discord)
 
 -Instalar los modulos correspondientes: colorama, os, requests 
 
