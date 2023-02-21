@@ -1,8 +1,8 @@
-# Token-Presser 
+# Token-Reaper
 
-(-Repositorio Actualizado (8-5-2022
+(-Repositorio Actualizado (2-21-2023)
 
-- Ahora le saca info el token (nombre, email y celular -pronto podras sacar su metodo de pago)  
+- Ahora le saca info el token (nombre, email y celular)  
 
 
 
