@@ -19,4 +19,4 @@ Para instalar los modulos debes de:
 
 3- Abrir el cmd y poner "pip install 'nombre del modulo' " 
 
-[![scr.png](https://i.postimg.cc/NGncgD8R/scr.png)](https://postimg.cc/jCy9czFj)
+[![scr.png](https://postimg.cc/MMN92FgG)
