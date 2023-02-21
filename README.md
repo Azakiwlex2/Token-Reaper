@@ -1,10 +1,7 @@
 # Token-Reaper
 
 (-Repositorio Actualizado (2-21-2023)
-
-- Ahora le saca info el token (nombre, email y celular)  
-
-
+ 
 
 
 -Nukeador de tokens (discord)
