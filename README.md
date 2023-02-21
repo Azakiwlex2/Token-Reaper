@@ -12,6 +12,6 @@ Como instalar los modulos:
 
 2- Instalar python con el exe de instalación descargado. En la ventana emergente de instalació parte inferior dar click a "Add python to PATH" 
 
-3- Abrir el cmd y escribir "pip install 'nombre del modulo' " 
+3- Abrir el cmd y escribir "pip install 'nombre del modulo' " ejemplo: 'pip install os'
 
 [![Screenshot-3.png](https://i.postimg.cc/GthVY0Qv/Screenshot-3.png)](https://postimg.cc/MMN92FgG)
